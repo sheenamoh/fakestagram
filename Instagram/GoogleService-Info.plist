@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>259726914251-86bnjj8rg5l9sbo7rf5d0n47pbrng1bu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.259726914251-86bnjj8rg5l9sbo7rf5d0n47pbrng1bu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjNDT8dctzzVGNVGeGTrIn1V2zInTlGAA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>259726914251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Instagram</string>
+	<key>PROJECT_ID</key>
+	<string>fakestagram-8cb01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fakestagram-8cb01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:259726914251:ios:a688096ad33444d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://fakestagram-8cb01.firebaseio.com</string>
+</dict>
+</plist>
